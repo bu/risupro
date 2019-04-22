@@ -1,0 +1,5 @@
+# we dont store packages
+vendor
+
+# we dont store binaries
+risupro

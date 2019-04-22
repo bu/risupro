@@ -1,0 +1,3 @@
+package: github.com/bu/risupro
+import:
+- package: github.com/gdamore/tcell
